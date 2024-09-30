@@ -8,8 +8,8 @@ Unser E-Learning-System ist eine umfassende Plattform, die darauf abzielt, Dozen
 
 Das Projekt ist in zwei Hauptunterprojekte unterteilt:
 
-1. **Frontend**
-2. **Backend**
+1. **Frontend**: https://github.com/Leg0shii/SWT-UML-Frontend
+2. **Backend**: https://github.com/Leg0shii/SWT-UML-Backend
 
 Diese beiden Komponenten arbeiten nahtlos zusammen, um eine benutzerfreundliche und leistungsfähige Lernumgebung zu bieten.
 
