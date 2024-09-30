@@ -25,6 +25,9 @@ Das Frontend ist die grafische Benutzeroberfläche des E-Learning-Systems, entwi
 - UML Editor
 ![grafik](https://github.com/user-attachments/assets/6335c1aa-0c0f-46f5-b8cf-d64c3af07f63)
 
+- Klassendiagramm
+![grafik](https://github.com/user-attachments/assets/db21c24b-0e46-4160-aef2-deae649fc526)
+
 ### Backend
 
 Das Backend bildet das Rückgrat des Systems und verwaltet Datenbanken, Server-Logik und die Kommunikation zwischen Client und Server. Es ist in Java realisiert und verwendet eine MySQL-Datenbank zur Speicherung aller relevanten Daten.
